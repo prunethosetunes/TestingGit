@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         val testing = "a"
         val testing2 = "b"
+        val testing3 = ""
     }
 }
